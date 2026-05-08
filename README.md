@@ -9,7 +9,7 @@
 
 ## 🧭 Context
 
-This project was developed during my Data Analyst internship at Technozor, within the Predictive Marketing practice. The goal was to build a robust Marketing Mix Model (MMM) to help the marketing team understand the contribution of each media channel to conversions, and to simulate how reallocating budget could improve performance.
+This project was developed during my Data Analyst internship at Technozor, within the Predictive Marketing practice. I was responsible for the end-to-end development of the Marketing Mix Modeling (MMM) initiative, aimed at helping the marketing team measure the contribution of each media channel to conversions and evaluate how budget reallocation strategies could improve overall performance and marketing efficiency.
 
 ---
 
