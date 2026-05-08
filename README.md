@@ -100,8 +100,9 @@ With the **same total budget** of 18.7M, Robyn's allocator identified:
 - **+73.7% more conversions** under Bounded ×3 scenario (42.9K conversions, CPA reduced from 757 → 436)
 
 > TV_Like_Weighted showed the lowest CPA (658) despite its relatively lower spend share, suggesting it was **underinvested** relative to its marginal return potential.
+<img width="4200" height="4200" alt="image" src="https://github.com/user-attachments/assets/4830e69c-4fd1-4df1-b825-5dcf3da2e12e" />
 
----
+
 
 ## 🛠️ Tech Stack
 
