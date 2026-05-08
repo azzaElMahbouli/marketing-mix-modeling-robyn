@@ -28,7 +28,7 @@ This project was developed during my Data Analyst internship at Technozor, withi
 marketing-mix-modeling-robyn/
 │
 ├── R/
-│   └── mmm_robyn_lr_comparison.R       # Full modeling pipeline (Robyn + LR)
+│   └── MMM&LR&DynamicFE.R       # Full modeling pipeline (Robyn + LR)
 │
 ├── data/
 │   └── marketing_data_sample.csv       # Anonymized/synthetic dataset (268 daily records)
@@ -36,10 +36,6 @@ marketing-mix-modeling-robyn/
 ├── results/
 │   ├── model_2_172_8_onepager.png      # Best model one-pager (decomposition, response curves)
 │   ├── budget_allocation_2_172_8.png   # Budget allocation scenarios
-│   ├── model_2_160_11_onepager.png     # Alternative Pareto-optimal model
-│   ├── budget_allocation_2_160_11.png  # Alternative budget allocation
-│   ├── model_metrics_comparison.csv    # Robyn vs LR metrics
-│   └── variable_importance_comparison.csv
 │
 ├── report/
 │   └── MMM_Academic_Report.pdf         # Full methodology and findings report
@@ -129,7 +125,7 @@ With the **same total budget** of 18.7M, Robyn's allocator identified:
 install.packages(c("Robyn", "reticulate", "readxl", "dplyr", 
                    "tidyverse", "caret", "Cairo"))
 ```
-3. Open `R/mmm_robyn_lr_comparison.R` and run `run_mmm_analysis()`
+3. Open `R/MMM&LR&DynamicFE.R` and run `run_mmm_analysis()`
 4. Point to your own dataset (must include a `DATE` column and numeric channel columns)
 5. Outputs will be saved to `~/MMM/`
 
