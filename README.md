@@ -94,6 +94,8 @@ marketing-mix-modeling-robyn/
 | Digital_Weighted | 40.9% | 41.2% | 633 |
 | TV_Like_Weighted | 15.4% | 14.9% | 658 |
 
+<img width="6800" height="7600" alt="image" src="https://github.com/user-attachments/assets/5246872a-e12d-4bad-822b-86c3e1ef8414" />
+
 ### Budget Reallocation Scenarios
 With the **same total budget** of 18.7M, Robyn's allocator identified:
 - **+23% more conversions** under bounded reallocation (30.4K vs 24.7K baseline)
